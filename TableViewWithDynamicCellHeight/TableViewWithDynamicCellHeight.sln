@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableViewWithDynamicCellHeight", "TableViewWithDynamicCellHeight\TableViewWithDynamicCellHeight.csproj", "{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Release|iPhone.Build.0 = Release|iPhone
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AAFB0CA0-2112-4E3F-9A56-C2C5317209E1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

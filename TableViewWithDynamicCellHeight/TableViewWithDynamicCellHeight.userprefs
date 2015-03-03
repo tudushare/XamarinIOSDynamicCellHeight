@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="TableViewWithDynamicCellHeight/TableViewWithDynamicCellHeight.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5.8.1" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TableViewWithDynamicCellHeight/TDDynamicCellHeightViewController.cs" Line="4" Column="4" />
+      <File FileName="TableViewWithDynamicCellHeight/TDTableSource.cs" Line="24" Column="24" />
+      <File FileName="TableViewWithDynamicCellHeight/TDCustomCell.cs" Line="44" Column="44" />
+      <File FileName="TableViewWithDynamicCellHeight/Helpers.cs" Line="37" Column="37" />
+      <File FileName="TableViewWithDynamicCellHeight/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
